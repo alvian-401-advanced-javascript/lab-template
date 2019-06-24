@@ -1,0 +1,23 @@
+{
+  "name": "lab-template",
+  "version": "1.0.0",
+  "description": "Demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --coverage --verbose"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alvian-401-advanced-javascript/lab-template.git"
+  },
+  "author": "Alvian",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alvian-401-advanced-javascript/lab-template/issues"
+  },
+  "homepage": "https://github.com/alvian-401-advanced-javascript/lab-template#readme",
+  "devDependencies": {
+    "eslint": "^6.0.0",
+    "jest": "^24.8.0"
+  }
+}
